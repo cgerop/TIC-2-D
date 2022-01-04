@@ -1,0 +1,42 @@
+html{
+    background-color: #14213d;
+}
+body{
+    font-family: sans-serif;
+    color: white;
+}
+table{
+    text-align: center;
+    border-collapse: collapse;
+}
+#title{
+    text-align: center;
+    color: #fca311;
+}
+
+h2{
+    text-align: center;
+    color: #ff9100
+}
+h3{
+    text-align: center;
+    color: #ff9100
+}
+h4{
+    text-align: center;
+    color: #fca311;
+    font-size: 25px;
+}
+b{
+    color:azure;
+}
+table{
+    margin: auto 0;
+}
+#menu li a{
+    text-decoration: none;
+    color: #34a0a4;
+}
+#menu li a:hover{
+    color: coral;
+}
