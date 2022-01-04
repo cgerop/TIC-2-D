@@ -1,0 +1,20 @@
+html{
+    background-color: #457b9d;
+    margin: 0 auto;
+    max-width: 800px;
+}
+body{ 
+    background-color: #d8e2dc;
+    padding-left: 40px;
+    padding-top: 40px;
+    font-family: "Helvetica", monospace, sans-serif;
+}
+table{
+    border-color: black;
+    border-collapse: collapse;
+    background-color: #d8e2dc;
+    
+}
+thead{
+    background-color: #0A81AB;
+}
